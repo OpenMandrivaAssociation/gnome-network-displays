@@ -20,7 +20,7 @@ BuildRequires:  pkgconfig(gstreamer-rtsp-server-1.0)
 BuildRequires:  firewalld
 
 Requires: libnma
-Requires: %{lib}gstrtspserver1.0_0
+Requires: %{_lib}gstrtspserver1.0_0
 Requires: gnome-desktop
 Requires: gtk+3.0
 Requires: hicolor-icon-theme
