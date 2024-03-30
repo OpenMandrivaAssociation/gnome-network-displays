@@ -14,6 +14,7 @@ BuildRequires:  gettext
 BuildRequires:  meson
 BuildRequires:  pkgconfig(gio-2.0)
 BuildRequires:  pkgconfig(gtk4)
+BuildRequires:  pkgconfig(json-glib-1.0)
 BuildRequires:  pkgconfig(libnm) >= 1.15.1
 BuildRequires:  pkgconfig(libpulse-mainloop-glib)
 BuildRequires:  pkgconfig(libprotobuf-c)
