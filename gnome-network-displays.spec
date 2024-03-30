@@ -12,6 +12,7 @@ BuildRequires:  appstream-util
 BuildRequires:  pkgconfig(appstream-glib)
 BuildRequires:  gettext
 BuildRequires:  meson
+BuildRequires:  pkgconfig(avahi-client)
 BuildRequires:  pkgconfig(gio-2.0)
 BuildRequires:  pkgconfig(gtk4)
 BuildRequires:  pkgconfig(json-glib-1.0)
