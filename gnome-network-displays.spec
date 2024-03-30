@@ -18,6 +18,7 @@ BuildRequires:  pkgconfig(json-glib-1.0)
 BuildRequires:  pkgconfig(libnm) >= 1.15.1
 BuildRequires:  pkgconfig(libpulse-mainloop-glib)
 BuildRequires:  pkgconfig(libprotobuf-c)
+BuildRequires:  pkgconfig(libsoup-3.0)
 BuildRequires:  pkgconfig(gstreamer-rtsp-server-1.0)
 BuildRequires:  pkgconfig(gstreamer-video-1.0)
 BuildRequires:  firewalld
