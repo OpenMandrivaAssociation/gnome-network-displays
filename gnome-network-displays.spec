@@ -13,7 +13,7 @@ BuildRequires:  pkgconfig(appstream-glib)
 BuildRequires:  gettext
 BuildRequires:  meson
 BuildRequires:  pkgconfig(avahi-client)
-BuildRequires:  pkgconfig(avahi-gobject_
+BuildRequires:  pkgconfig(avahi-gobject)
 BuildRequires:  pkgconfig(gio-2.0)
 BuildRequires:  pkgconfig(gtk4)
 BuildRequires:  pkgconfig(json-glib-1.0)
