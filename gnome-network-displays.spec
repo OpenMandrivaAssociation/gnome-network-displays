@@ -26,6 +26,7 @@ BuildRequires:  pkgconfig(libsoup-3.0)
 BuildRequires:  pkgconfig(gstreamer-rtsp-server-1.0)
 BuildRequires:  pkgconfig(gstreamer-video-1.0)
 BuildRequires:  firewalld
+BuildRequires:  desktop-file-utils
 
 Requires: libnma
 Requires: %{_lib}gstrtspserver1.0_0
