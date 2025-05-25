@@ -1,6 +1,6 @@
 Name:           gnome-network-displays
-Version:        0.94.0
-Release:        2
+Version:        0.97.0
+Release:        1
 Summary:        Stream the desktop to Wi-Fi Display capable devices
 
 # The icon is licensed CC-BY-SA
@@ -26,6 +26,7 @@ BuildRequires:  pkgconfig(libsoup-3.0)
 BuildRequires:  pkgconfig(gstreamer-rtsp-server-1.0)
 BuildRequires:  pkgconfig(gstreamer-video-1.0)
 BuildRequires:  firewalld
+BuildRequires:  desktop-file-utils
 
 Requires: libnma
 Requires: %{_lib}gstrtspserver1.0_0
