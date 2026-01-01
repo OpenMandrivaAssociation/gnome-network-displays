@@ -62,6 +62,8 @@ Currently implemented is support for casting to Wi-Fi Display capable devices
 %license COPYING
 %doc README.md
 %{_bindir}/gnome-network-displays
+%{_bindir}/gnome-network-displays-daemon
+%{_libexecdir}/gnome-network-displays-stream
 %{_datadir}/applications/*.desktop
 #_datadir}/glib-2.0/schemas/org.gnome.NetworkDisplays.gschema.xml
 %{_datadir}/icons/hicolor/scalable/apps/org.gnome.NetworkDisplays.svg
