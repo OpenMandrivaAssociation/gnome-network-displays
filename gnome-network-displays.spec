@@ -1,6 +1,6 @@
 Name:           gnome-network-displays
-Version:        0.97.0
-Release:        2
+Version:        0.98.0
+Release:        1
 Summary:        Stream the desktop to Wi-Fi Display capable devices
 
 # The icon is licensed CC-BY-SA
